@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Tet_Ani2
+  m_Controller: {fileID: 9100000, guid: cd17cb672e00e9943a154d49566461b9, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5e7a1d133c2a1834890621f16c71f78f, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f034c8e1ceab82240bb5a26016f36d21, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 941fea6d735548e449ebf50f103e74aa, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: aefa6b2a351432040bf8b808dd41f3d6, type: 2}
