@@ -35,11 +35,10 @@ public class player : MonoBehaviour
 
         Delay -= Time.deltaTime;
 
-       // if (Input.GetKey("right")) { move.x = speed; move.y = 0; }
-        //else if (Input.GetKey("left")) { move.x = -speed; move.y = 0; }
-
+       
         float h = Input.GetAxis("Horizontal");
         float v = Input.GetAxis("Vertical");
+
 
         move = new Vector3(h, v, 0);
 
